@@ -120,6 +120,10 @@ We believe AQUA-WISE GUARDIANS can become the new standard for interactive, inte
 
 -video presentation:https://youtube.com/shorts/qSc8BRycaKM?feature=share
 another presentation:https://youtu.be/oN5o6SG5y1g 
+  ##  live
+  we are working on this repo yet deploy this 
+  https://github.com/yatish2026/Sustainovation2025-
+ -live  https://raj72620.github.io/Project-AQUA-WISE-GUARDANS/
 ## 🧪 How to Run (Local Setup)
 
 ```bash
