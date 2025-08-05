@@ -124,6 +124,8 @@ another presentation:https://youtu.be/oN5o6SG5y1g
 
 ```bash
 # Clone the repo
+https://github.com/yatish2026/Sustainovation2025-.git
+and this 
 git clone https://github.com/Raj72620/Project-AQUA-WISE-GUARDANS.git
 cd Project-AQUA-WISE-GUARDANS
 
@@ -137,7 +139,7 @@ cd ../frontend
 npm install
 npm start
 
-
+create.evn file to connect your database and apis
 
 
 
