@@ -94,7 +94,32 @@ Sensor Network + AI Agent
 
 
 ---
+## 🛠️ 👨‍💻 Contributors
+ Yatish	,raj , shaziya,diya karmakar
 
+## 🛠 Current Status
+✅ Backend, AI agent, and IoT logic implemented
+
+✅ Data streaming + dashboard tested
+
+🔄 Currently integrating all components into one smooth app
+## 📈 Plan for Further Development
+Add mobile support (PWA)
+
+Enable automatic greywater diversion using relays
+
+Push updates to government water audit APIs
+
+Deploy final version for a pilot school/senior center
+
+##  Judge's Note
+Our solution is not just a demo — it’s field-ready, affordable, and impact-driven.
+We believe AQUA-WISE GUARDIANS can become the new standard for interactive, intelligent water sustainability in institutions.  
+
+-live :https://raj72620.github.io/Project-AQUA-WISE-GUARDANS/
+
+-video presentation:https://youtube.com/shorts/qSc8BRycaKM?feature=share
+another presentation:https://youtu.be/oN5o6SG5y1g 
 ## 🧪 How to Run (Local Setup)
 
 ```bash
@@ -113,30 +138,7 @@ npm install
 npm start
 
 
-👨‍💻 Contributors
-Name	Role
-Professor Yatish	AI Agent, Backend, Architecture
-Raj	IoT Integration, Hardware
-[Add others if any]	[Their roles]
 
-Current Status
-✅ Backend, AI agent, and IoT logic implemented
 
-✅ Data streaming + dashboard tested
 
-🔄 Currently integrating all components into one smooth app
-📈 Plan for Further Development
-Add mobile support (PWA)
 
-Enable automatic greywater diversion using relays
-
-Push updates to government water audit APIs
-
-Deploy final version for a pilot school/senior center
-
-⭐ Judge's Note
-Our solution is not just a demo — it’s field-ready, affordable, and impact-driven.
-We believe AQUA-WISE GUARDIANS can become the new standard for interactive, intelligent water sustainability in institutions.
-live :https://raj72620.github.io/Project-AQUA-WISE-GUARDANS/
-video presentation:https://youtube.com/shorts/qSc8BRycaKM?feature=share
-another presentation:https://youtu.be/oN5o6SG5y1g 
