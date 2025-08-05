@@ -52,8 +52,91 @@ An integrated, intelligent platform that combines **IoT sensors**, **AI agents**
 | **AI Agent** | Google Cloud Dialogflow, Python, Text-to-Speech APIs |
 | **Hosting**  | Firebase Hosting, GitHub Pages |
 | **Deployment Tools** | Git, GitHub Actions |
+## 📊 System Architecture
+User ↔ Web App ↔ Backend API ↔ Firebase
+↕
+IoT Layer
+↕
+Sensor Network + AI Agent
 
 
+---
+
+## 🧪 How It Works
+
+1. **Sensors** installed at water outlets collect data
+2. **IoT board** sends live data to Firebase
+3. **Backend API** processes and updates dashboards
+4. **AI Agent** interacts with users via web interface or voice
+5. **Users** get real-time reports, suggestions, and alerts
+
+---
+
+## 💡 Innovation Highlights
+
+- ♻️ **Greywater reuse focus** in low-resource institutions
+- 🧓👦 **Dual-friendly UX** for children and the elderly
+- 🧠 **Voice-based agent** makes sustainability *interactive*
+- 📈 **Smart analytics** for school staff and government audits
+- ⚡ **Low-cost implementation** using open hardware & cloud
+
+---
+
+## 🎯 Target Users
+
+- 🏫 Schools (Govt & Pvt): Enable hands-on sustainability learning while cutting water waste
+- 🧓 Senior Centers/Old Age Homes: Provide water-saving + hygiene monitoring with elder-friendly design
+- 🏨 Hostels & Colleges: Save costs from continuous washing through smart reuse
+- 🏢 Hotels & Commercial Spaces: Help meet ESG goals via greywater recycling
+- 🤝 NGOs & CSR Partners: Offer an affordable and scalable solution for water conservation
+
+-
 
 
+---
 
+## 🧪 How to Run (Local Setup)
+
+```bash
+# Clone the repo
+git clone https://github.com/Raj72620/Project-AQUA-WISE-GUARDANS.git
+cd Project-AQUA-WISE-GUARDANS
+
+# Start backend
+cd backend
+npm install
+npm start
+
+# In another terminal: Start frontend
+cd ../frontend
+npm install
+npm start
+
+
+👨‍💻 Contributors
+Name	Role
+Professor Yatish	AI Agent, Backend, Architecture
+Raj	IoT Integration, Hardware
+[Add others if any]	[Their roles]
+
+Current Status
+✅ Backend, AI agent, and IoT logic implemented
+
+✅ Data streaming + dashboard tested
+
+🔄 Currently integrating all components into one smooth app
+📈 Plan for Further Development
+Add mobile support (PWA)
+
+Enable automatic greywater diversion using relays
+
+Push updates to government water audit APIs
+
+Deploy final version for a pilot school/senior center
+
+⭐ Judge's Note
+Our solution is not just a demo — it’s field-ready, affordable, and impact-driven.
+We believe AQUA-WISE GUARDIANS can become the new standard for interactive, intelligent water sustainability in institutions.
+live :https://raj72620.github.io/Project-AQUA-WISE-GUARDANS/
+video presentation:https://youtube.com/shorts/qSc8BRycaKM?feature=share
+another presentation:https://youtu.be/oN5o6SG5y1g 
