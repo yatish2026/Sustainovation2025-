@@ -46,6 +46,7 @@ An integrated, intelligent platform that combines **IoT sensors**, **AI agents**
 | Layer        | Technologies Used |
 |--------------|-------------------|
 | **Frontend** | React.js, TailwindCSS |
+| **programming languages** | python,Kotlin, Java ,C++ ,js|
 | **Backend**  | Node.js, Express.js |
 | **Database** | Firebase, Firestore |
 | **IoT**      | Arduino/ESP32, Ultrasonic Sensors, Flow Meters |
