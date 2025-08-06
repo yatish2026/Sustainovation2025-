@@ -1,4 +1,4 @@
-# 💧 Project: AQUA-WISE GUARDIANS
+# 💧 Project: AQUA-WISE GUARDIANS Team Onyx
 
 ### 🏆 Built for the Sustainovation 2025 Hackathon
 
